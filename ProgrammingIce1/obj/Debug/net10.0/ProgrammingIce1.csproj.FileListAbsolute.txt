@@ -1,0 +1,14 @@
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ProgrammingIce1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ProgrammingIce1.AssemblyInfoInputs.cache
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ProgrammingIce1.AssemblyInfo.cs
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ProgrammingIce1.csproj.CoreCompileInputs.cache
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\bin\Debug\net10.0\ProgrammingIce1.exe
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\bin\Debug\net10.0\ProgrammingIce1.deps.json
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\bin\Debug\net10.0\ProgrammingIce1.runtimeconfig.json
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\bin\Debug\net10.0\ProgrammingIce1.dll
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\bin\Debug\net10.0\ProgrammingIce1.pdb
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ProgrammingIce1.dll
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\refint\ProgrammingIce1.dll
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ProgrammingIce1.pdb
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ProgrammingIce1.genruntimeconfig.cache
+C:\Users\silol\Desktop\EVERYTHING\EMERIS(2026)\Programming\Programming Semester 3\ProgrammingIce1\obj\Debug\net10.0\ref\ProgrammingIce1.dll
